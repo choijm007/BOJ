@@ -1,7 +1,3 @@
-for i in range(4,0,-1):
-    print(i)
-
-
-print()
-for i in range(1,5):
+print(min(10,15,5,6,8))
+for i in range(10,-1,-1):
     print(i)
